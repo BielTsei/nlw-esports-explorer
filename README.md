@@ -19,7 +19,7 @@ Nessa versão na trilha Explorer, foi desenvolvido uma aplicação gamer, onde s
  
 #
 
-## **[Clique aqui e acesse](bieltsei.github.io/nlw-esports-explorer)** ![web-link](./.github/web-link.png)
+## **[Clique aqui e acesse](htttps://bieltsei.github.io/nlw-esports-explorer)** ![web-link](./.github/web-link.png)
 
 #
 
